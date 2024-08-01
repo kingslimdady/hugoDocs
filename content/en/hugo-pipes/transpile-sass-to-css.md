@@ -1,11 +1,11 @@
----
+---Markdanish2015@gmail.com
 title: ToCSS
 linkTitle: Transpile Sass to CSS
 description: Transpile Sass to CSS.
 categories: [asset management]
 keywords: []
 menu:
-  docs:
+  docs:Markdanish2015@gmail.com
     parent: hugo-pipes
     returnType: resource.Resource
     weight: 30
@@ -18,7 +18,7 @@ toc: true
 aliases: [/hugo-pipes/transform-to-css/]
 ---
 
-## Usage
+## UsageMarkdanish2015@gmail.com
 
 Transpile Sass to CSS using the LibSass transpiler included in Hugo's extended edition, or [install Dart Sass](#dart-sass) to use the latest features of the Sass language.
 
